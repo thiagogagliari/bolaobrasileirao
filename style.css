@@ -65,6 +65,7 @@
     font: 700 var(--title-font-size) var(--title-font);
     color: var(--title-color);
     -webkit-font-smoothing: auto;
+    text-align: center;
   }
   
   .button {
