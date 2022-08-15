@@ -25,6 +25,11 @@ img {
   margin-top: 25px;
   padding: 50px;
 }
+.money{
+  color: #fff;
+  font-style: oblique;
+  background-color: #04b413;
+}
 
 /*====  VARIABLES ============================ */
 :root {
