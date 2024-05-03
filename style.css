@@ -25,6 +25,13 @@ img {
   margin-top: 25px;
   padding: 50px;
 }
+
+.alert{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  background-color: rgb(22, 76, 224);
+}
 .money{
   color: #fff;
   font-style: oblique;
